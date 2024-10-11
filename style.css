@@ -1,0 +1,102 @@
+.text-center{
+    background-color: #e4f9f5;
+}
+
+.About{
+    font-size: 4rem;
+    color: #66bfbf;
+    font-family: "Sacramento", cursive;
+    padding-bottom: 50px;
+}
+
+h2{
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    margin-bottom: 0px;
+}
+
+.top-cloud{
+    height: 100px;
+    width: 150px;
+    margin-bottom: 50px;
+   margin-left: 300px;
+}
+
+.mountain{
+    height: 300px;
+    width: 800px;
+}
+
+.row{
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+
+.photo{
+    border-radius: 50%;
+    margin-bottom: 30px;
+}
+
+.col-lg-15{
+    text-align: center;
+}
+
+.fw-normal{
+    margin-bottom: 20px;
+}
+
+hr{
+    border: dotted gray 2px;
+}
+
+.link{
+    margin-left: 175px;
+}
+
+.px-3{
+    padding-top: 90px;
+}
+
+.Contact{
+    color: #66bfbf;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.main{
+    color: #11999e;
+    text-align: center;
+    margin-bottom: 30px;
+    
+}
+
+.View{
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.3rem;
+}
+
+.lead{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+
+.End{
+    background-color: #66bfbf;
+
+}
+
+.Footer{
+    background-color: #66bfbf;
+}
+
+.Copyright{
+    color: white;
+    text-align: center;
+}
+
+@media (min-width: 480px) {
+    
+  }
